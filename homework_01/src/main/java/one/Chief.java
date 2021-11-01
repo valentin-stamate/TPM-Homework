@@ -1,3 +1,7 @@
+package one;
+
+import util.Util;
+
 public class Chief implements Runnable {
 	private final Bowl bowl;
 	

@@ -1,3 +1,7 @@
+package one;
+
+import util.Util;
+
 public class Cannibal implements Runnable {
     private final Bowl bowl;
     private final int id;
@@ -9,12 +13,7 @@ public class Cannibal implements Runnable {
 
     @Override
     public void run() {
-        try {
-            Thread.sleep(500);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
-
+        Util.sleep(500);
         bowl.eatFood(id);
     }
 

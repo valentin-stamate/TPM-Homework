@@ -1,3 +1,7 @@
+package one;
+
+import util.Util;
+
 import java.util.concurrent.locks.ReentrantLock;
 
 public class Bowl {
@@ -19,15 +23,20 @@ public class Bowl {
 	}
 	
 	public void eatFood(int cannibalId) {
+		long currentTimeOne = Util.currentTime();
 		rl.lock();
+
 		while (isEmpty()) {
 			Util.sleep(50);
 		}
 		
-		System.out.printf("Cannibal %-2d eating -> bowl capacity %-2d\n", cannibalId, currentCapacity);
 		Util.sleep(500);
-
 		currentCapacity--;
+
+		System.out.printf("Cannibal %-2d eating -> bowl capacity %-2d", cannibalId, currentCapacity);
+		long currentTimeTwo = Util.currentTime();
+		System.out.printf(" time waited : %s\n", Util.millisToTime(currentTimeTwo - currentTimeOne));
+
 		rl.unlock();
 	}
 	

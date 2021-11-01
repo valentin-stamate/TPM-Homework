@@ -1,4 +1,8 @@
-public class MainClass {
+import one.Bowl;
+import one.Cannibal;
+import one.Chief;
+
+public class MainClassOne {
 
     public static void main(String[] args) {
         int maxCapacity = 5;

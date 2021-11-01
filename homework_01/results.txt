@@ -1,0 +1,35 @@
+First Method:
+Chief cooking.
+Cannibal 1  eating -> bowl capacity 4  time waited : 1  sec 578ms
+Cannibal 2  eating -> bowl capacity 3  time waited : 2  sec 82 ms
+Cannibal 0  eating -> bowl capacity 2  time waited : 2  sec 596ms
+Cannibal 5  eating -> bowl capacity 1  time waited : 3  sec 111ms
+Cannibal 6  eating -> bowl capacity 0  time waited : 3  sec 624ms
+Chief cooking.
+Cannibal 3  eating -> bowl capacity 4  time waited : 5  sec 763ms
+Cannibal 9  eating -> bowl capacity 3  time waited : 6  sec 276ms
+Cannibal 10 eating -> bowl capacity 2  time waited : 6  sec 789ms
+Cannibal 4  eating -> bowl capacity 1  time waited : 7  sec 291ms
+Cannibal 7  eating -> bowl capacity 0  time waited : 7  sec 805ms
+Chief cooking.
+Cannibal 8  eating -> bowl capacity 4  time waited : 9  sec 919ms
+Cannibal 11 eating -> bowl capacity 3  time waited : 10 sec 432ms
+Cannibal 12 eating -> bowl capacity 2  time waited : 10 sec 946ms
+
+Second Method:
+Chief cooking.
+Cannibal 3  with label 0   eating -> bowl capacity 4  time waited : 1  sec 569ms
+Cannibal 8  with label 1   eating -> bowl capacity 3  time waited : 2  sec 680ms
+Cannibal 2  with label 2   eating -> bowl capacity 2  time waited : 3  sec 753ms
+Cannibal 6  with label 3   eating -> bowl capacity 1  time waited : 4  sec 859ms
+Cannibal 7  with label 4   eating -> bowl capacity 0  time waited : 5  sec 937ms
+Chief cooking.
+Cannibal 1  with label 5   eating -> bowl capacity 4  time waited : 8  sec 81 ms
+Cannibal 4  with label 6   eating -> bowl capacity 3  time waited : 9  sec 202ms
+Cannibal 0  with label 7   eating -> bowl capacity 2  time waited : 10 sec 291ms
+Cannibal 5  with label 8   eating -> bowl capacity 1  time waited : 11 sec 368ms
+Cannibal 11 with label 9   eating -> bowl capacity 0  time waited : 12 sec 469ms
+Chief cooking.
+Cannibal 12 with label 10  eating -> bowl capacity 4  time waited : 14 sec 551ms
+Cannibal 10 with label 11  eating -> bowl capacity 3  time waited : 15 sec 619ms
+Cannibal 9  with label 12  eating -> bowl capacity 2  time waited : 16 sec 707ms
