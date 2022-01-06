@@ -1,0 +1,74 @@
+4 Th 400000 elements
+Time passed for modified 52509ms
+Time passed for original 56320ms
+
+Time passed for modified 55121ms
+Time passed for original 64452ms
+
+
+1 Th 10000 elements
+Time passed for modified 39810ms
+Time passed for original 74781ms
+
+1 Th 100000 elements
+Time passed for modified 2159ms
+Time passed for original 2682ms
+Time passed for modified 1875ms
+Time passed for original 2500ms
+Time passed for modified 1860ms
+Time passed for original 2582ms
+Time passed for modified 1875ms
+Time passed for original 2553ms
+Time passed for modified 1901ms
+Time passed for original 2560ms
+Time passed for modified 1911ms
+Time passed for original 2563ms
+Time passed for modified 1930ms
+Time passed for original 2570ms
+Time passed for modified 1468ms
+Time passed for original 2721ms
+Time passed for modified 1923ms
+Time passed for original 2731ms
+Time passed for modified 1886ms
+Time passed for original 2705ms
+Time passed for modified 1964ms
+Time passed for original 2536ms
+Time passed for modified 1906ms
+Time passed for original 2515ms
+Time passed for modified 1907ms
+Time passed for original 2549ms
+Time passed for modified 2546ms
+Time passed for original 3654ms
+Time passed for modified 2154ms
+Time passed for original 3937ms
+Time passed for modified 2122ms
+Time passed for original 3486ms
+Time passed for modified 1781ms
+Time passed for original 2779ms
+Time passed for modified 2005ms
+Time passed for original 2817ms
+Time passed for modified 2088ms
+Time passed for original 3827ms
+Time passed for modified 2266ms
+Time passed for original 2606ms
+Time passed for modified 2048ms
+Time passed for original 2651ms
+Time passed for modified 1974ms
+Time passed for original 2660ms
+Time passed for modified 1927ms
+Time passed for original 2603ms
+Time passed for modified 2119ms
+Time passed for original 2614ms
+Time passed for modified 1989ms
+Time passed for original 3196ms
+Time passed for modified 1827ms
+Time passed for original 2740ms
+Time passed for modified 1998ms
+Time passed for original 2647ms
+Time passed for modified 1935ms
+Time passed for original 2676ms
+Time passed for modified 1886ms
+Time passed for original 2543ms
+
+Medie new : 1977ms
+Medie old : 2793ms
